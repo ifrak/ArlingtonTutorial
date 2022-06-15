@@ -49,8 +49,7 @@ public class Hangman {
 			System.out.println();
 			System.out.println();
 			System.out.println();
-			System.out.println("___|___");
-			System.out.println();
+			System.out.println
 		}
 		if (count == 2) {
 			System.out.println("Wrong guess, try again");
